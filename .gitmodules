@@ -1,0 +1,3 @@
+[submodule "regclient"]
+	path = regclient
+	url = https://github.com/regclient/regclient
